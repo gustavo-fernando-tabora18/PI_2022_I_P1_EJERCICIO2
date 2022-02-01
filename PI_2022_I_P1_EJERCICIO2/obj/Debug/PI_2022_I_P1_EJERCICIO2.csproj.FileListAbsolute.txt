@@ -1,0 +1,8 @@
+C:\Users\kevin\source\repos\PI_2022_I_P1_EJERCICIO2\PI_2022_I_P1_EJERCICIO2\bin\Debug\PI_2022_I_P1_EJERCICIO2.exe.config
+C:\Users\kevin\source\repos\PI_2022_I_P1_EJERCICIO2\PI_2022_I_P1_EJERCICIO2\bin\Debug\PI_2022_I_P1_EJERCICIO2.exe
+C:\Users\kevin\source\repos\PI_2022_I_P1_EJERCICIO2\PI_2022_I_P1_EJERCICIO2\bin\Debug\PI_2022_I_P1_EJERCICIO2.pdb
+C:\Users\kevin\source\repos\PI_2022_I_P1_EJERCICIO2\PI_2022_I_P1_EJERCICIO2\obj\Debug\PI_2022_I_P1_EJERCICIO2.csproj.AssemblyReference.cache
+C:\Users\kevin\source\repos\PI_2022_I_P1_EJERCICIO2\PI_2022_I_P1_EJERCICIO2\obj\Debug\PI_2022_I_P1_EJERCICIO2.csproj.SuggestedBindingRedirects.cache
+C:\Users\kevin\source\repos\PI_2022_I_P1_EJERCICIO2\PI_2022_I_P1_EJERCICIO2\obj\Debug\PI_2022_I_P1_EJERCICIO2.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\PI_2022_I_P1_EJERCICIO2\PI_2022_I_P1_EJERCICIO2\obj\Debug\PI_2022_I_P1_EJERCICIO2.exe
+C:\Users\kevin\source\repos\PI_2022_I_P1_EJERCICIO2\PI_2022_I_P1_EJERCICIO2\obj\Debug\PI_2022_I_P1_EJERCICIO2.pdb
